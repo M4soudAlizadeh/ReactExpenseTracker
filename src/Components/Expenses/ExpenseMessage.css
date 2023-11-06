@@ -1,0 +1,12 @@
+.expense-message {
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem 0;
+  margin-bottom: 1rem;
+  background-color: #4b4b4b;
+  border-radius: 12px;
+}
+.expense-message__message {
+  color: white;
+  font-size: 1.2rem;
+}
